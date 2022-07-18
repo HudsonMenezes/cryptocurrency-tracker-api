@@ -37,7 +37,7 @@ function App() {
         <form>
           <input
             type="text"
-            placeholder="Pesquisar"
+            placeholder="Ex: 'Bitcoin'"
             className="coin-input"
             onChange={handleChange}
           ></input>
